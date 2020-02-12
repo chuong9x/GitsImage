@@ -2,7 +2,7 @@
 title: Document
 menuTitle: Document
 ---
-![]
+![](https://github.com/chuong9x/DataBlog/blob/master/Fighting/preview.jpg?raw=true)
 ### Dynamo Forum
 
 Trang này mỗi khi mình rảnh là mình lại lên đọc, vừa tham gia giải đáp được những câu hỏi , vừa giúp đỡ người khác và tìm ra ý tưởng thực hiện bài toán cho riêng minh.
